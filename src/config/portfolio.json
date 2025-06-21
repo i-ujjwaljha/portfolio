@@ -1,0 +1,82 @@
+{
+  "personal": {
+    "name": "Ujjwal Jha",
+    "role": "Front-end Developer, Web Designer",
+    "description": "I build exceptional and accessible digital experiences for the web.",
+    "avatar": "/avatar.jpg",
+    "location": "Bengaluru, India",
+    "email": "searchingforujjwal@gmail.com",
+    "socials": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/i-ujjwaljha"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/i-ujjwaljha/"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "description": "With a passion for both technology and design, I develop scalable, high-performance applications that captivate users and drive success.",
+    "resume": "/Ujjwal_Resume.pdf"
+  },
+  "projects": [
+    {
+      "title": "Brainwave - UI/UX Landing Page",
+      "description": "This is a modern UI/UX website, developed using React.js and Tailwind CSS, that exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.",
+      "tags": ["React", "TailwindCSS"],
+      "image": "/brainwave.png",
+      "url": "https://brainwave-page-web.vercel.app/",
+      "github": "https://github.com/i-ujjwaljha/Brainwave"
+    },
+    {
+      "title": "Hoobank UI/UX Landing Page",
+      "description": "A modern UI/UX website for an arbitrary bank named Hoobank. It is developed using React.js and Tailwind CSS, setting a high standard for digital banking. Its sleek design, seamless animations, and overall user experience exemplify modern principles, serving as a reference for future applications.",
+      "tags": ["React", "TailwindCSS"],
+      "image": "/hoobank.png",
+      "url": "https://modern-ebank-site.netlify.app/",
+      "github": "https://github.com/i-ujjwaljha/modernlandingpage"
+    }
+
+  ],
+  "skills": [
+    { "name": "MS Dynamics" },
+    { "name": "Blue Prism" },
+    { "name": "RPA" },
+    { "name": "Next JS" },
+    { "name": "React JS" },
+    { "name": "Node.js" },
+    { "name": "JavaScript" },
+    { "name": "HTML" },
+    { "name": "CSS" },
+    { "name": "Git" },
+    { "name": "Figma" },
+    { "name": "Adobe Phtoshop" }
+  ],
+  "experience": [
+    {
+      "company": "Allstate India",
+      "role": "Apprentice Associate III",
+      "startDate": "September 2024",
+      "endDate": "Present",
+      "responsibilities": [
+        "Collaborated with the Underwriting team to analyze and document business requirements, translating them into efficient and scalable automated workflows within Blue Prism, and implemented monitoring procedures to track bot performance.",
+        "Configured and maintained automated processes within Microsoft Dynamics, ensuring seamless integration with Blue Prism workflows for end-to-end automation, and utilized Blue Prism Control Room for bot monitoring and scheduling.",
+        "Proactively monitored Blue Prism bots, identifying and resolving exceptions and errors to maintain process stability and minimize downtime."
+      ]
+    },
+    {
+      "company": "Oasis Infobyte",
+      "role": "Web Development Intern",
+      "startDate": "October 2023",
+      "endDate": "November 2023",
+      "responsibilities": [
+        "Developed websites for small business owners. Utilized HTML, CSS, and JavaScript to create responsive and user-friendly interfaces",
+        "Collaborated with the backend team to integrate APIs into the frontend using React.",
+        "Gained experience in version control with Git, React JS, web accessibility best practices."
+      ]
+    }
+  ]
+}
