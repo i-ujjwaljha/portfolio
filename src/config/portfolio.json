@@ -24,6 +24,14 @@
   },
   "projects": [
     {
+      "title": "Velvet Pour - GSAP Animation",
+      "description": " I built and deployed a stunning cocktail website using React and Tailwind CSS, focusing on a scroll-driven experience powered by GSAP.",
+      "tags": ["React", "GSAP", "TailwindCSS"],
+      "image": "/velvetpour.png",
+      "url": "https://velvetpour-gsap-landing.vercel.app/",
+      "github": "https://github.com/i-ujjwaljha/velvetpour-gsap-landing"
+    },
+    {
       "title": "Brainwave - UI/UX Landing Page",
       "description": "This is a modern UI/UX website, developed using React.js and Tailwind CSS, that exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.",
       "tags": ["React", "TailwindCSS"],
@@ -40,6 +48,22 @@
       "github": "https://github.com/i-ujjwaljha/modernlandingpage"
     }
 
+  ],
+  "blogs": [
+    {
+      "title": "Why AI Checkers Still Detect AI Content After Humanization?",
+      "description": "So, you wrote something with AI, tried to humanize it somewhat, and those AI checkers still catch it? Similar to hiding a robot in a crowd – even if you put it in disguise, there are things that don’t work well at all.",
+      "tags": ["React", "TailwindCSS"],
+      "image": "/blog1.png",
+      "url": "https://ujjwaljha.hashnode.dev/why-ai-checkers-still-detect-ai-content-after-humanization"
+    },
+    {
+      "title": "The TypeScript Tease: Is It Worth the Hype?",
+      "description": "While diving into React JS projects, I couldn't help but notice countless tutorials recommending TypeScript. This got me thinking: If JavaScript and other languages are already in the mix, why introduce yet another language? Turns out, there's a compelling reason. Let's explore the differences between JavaScript and TypeScript and understand why TypeScript has gained significant traction in the development community.",
+      "tags": ["React", "TailwindCSS"],
+      "image": "/TSvsJS.png",
+      "url": "https://ujjwaljha.hashnode.dev/javascript-vs-typescript"
+    }
   ],
   "skills": [
     { "name": "MS Dynamics" },
